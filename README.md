@@ -13,11 +13,10 @@
 
 ## 📋 Course Details
 
-| Category                    | Information |
-| :-------------------------- | :---------- |
-| **Semester**                | Fall 2025   |
-| **Grade Earned**            | - |
-
+| Category         | Information |
+| :--------------- | :---------- |
+| **Semester**     | Fall 2025   |
+| **Grade Earned** | -           |
 
 ---
 
