@@ -16,7 +16,7 @@
 | Category         | Information |
 | :--------------- | :---------- |
 | **Semester**     | Fall 2025   |
-| **Grade Earned** | -           |
+| **Grade Earned** | A           |
 
 ---
 
