@@ -4,7 +4,7 @@
   <img src="image.png" width="500" style="background-color: white;">
   <br><br>
   <h2>Program Design and Implementation 2</h2>
-  <p><strong>5 Credit Hours | Khoury College of Computer Science</strong></p>
+  <p><strong>4 Credit Hours | Khoury College of Computer Science</strong></p>
 </div>
 
 ## 📚 Course Overview
@@ -13,13 +13,30 @@
 
 ## 📋 Course Details
 
-| Category         | Information |
-| :--------------- | :---------- |
-| **Semester**     | Fall 2025   |
-| **Grade Earned** | A           |
+| Category                    | Information |
+| :-------------------------- | :---------- |
+| **Semester**                | Fall 2025 |
+| **Grade Earned**            | A |
+| **Programming Language**    | Java 21 |
+| **Development Environment** | IntelliJ IDEA, Gradle, Pawtograder |
+
+## 🏛️ Repository Structure
+
+```
+.
+├── README.md       # Course information (this file)
+├── f25-ex01-.../   # Exercise 01
+├── f25-ex02-.../   # Exercise 02
+├── f25-hw01-.../   # Homework 01
+├── ...             # Homework 02–04
+├── f25-lab01-.../  # Lab 01
+└── ...             # Labs 02–06
+```
+
+> Each assignment is a git submodule pointing at its own Pawtograder handout repo.
 
 ---
 
 <div align="center">
-  <p><em>© Vignesh Saravanakumar 2025 | Northeastern University</em></p>
+  <p><em>© Vignesh Saravanakumar 2026 | Northeastern University</em></p>
 </div>
